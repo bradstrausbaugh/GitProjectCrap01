@@ -1,1 +1,2 @@
 - before git init
+- added this line before second commit
