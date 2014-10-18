@@ -1,1 +1,2 @@
 - before git init
+- add another line
